@@ -61,6 +61,8 @@ footer h2 {
     font-size: 20px;
 }
 
+/* changed CSS selector order to follow semantic structure */
+
 .hero {
     height: 800px;
     width: 100%;
